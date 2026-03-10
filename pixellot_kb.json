@@ -1,0 +1,1073 @@
+{
+  "company": {
+    "name": "Pixellot",
+    "tagline": "Why buy a camera when you can own the future?",
+    "mission_statement": "Revolutionizing the world of sports with pioneering AI-automated solutions for capturing, producing, streaming, analyzing and monetizing games.",
+    "value_proposition": "Pixellot enables sports organizations, media companies, leagues, schools, and clubs to automate the entire video production workflow — filming, streaming, analysis, and monetization — across 19 sport types, with no production staff required. It eliminates the cost and complexity of traditional camera crews by replacing them with AI-automated, fixed or portable camera systems.",
+    "founding_year": "2013",
+    "headquarters": "Israel (founded by Gal Oz and Dr. Miky Tamir; global offices not individually listed on site)",
+    "scale_stats": {
+      "games_broadcasted": "5,152,646 total games produced (homepage live counter; ~163,185 games per month)",
+      "hours_of_video": "Over 90,000 hours of live content produced monthly (per FAQ reliability claim)",
+      "venues_installed": "38,480 systems worldwide (courts and fields covered)",
+      "countries_active": "80+ countries",
+      "leagues_partners": "Not specified as a single number; partners span federations, leagues, broadcasters, and clubs across 80+ countries",
+      "users_or_athletes": "10,000+ clubs and teams using Pixellot Air alone"
+    },
+    "awards_recognition": [
+      "2025 — Partnership of the Year, STA Group",
+      "2024 — Social Impact Award (ISE Awards); STA Power List; Best Tech Company (SportsPro OTT); BaM Award (NAB Show)",
+      "2023 — VideoTech Innovation Award; Top 100 Next Scale-Ups (VivaTech); 10 Most Innovative Sports Tech Companies (Sports Business Journal)",
+      "2022 — NAB Next TV Best in Market",
+      "2021 — Power Brand, STA Group",
+      "2020 — Sports Business Awards; SATIS Awards",
+      "2019 — NAB Product of the Year; 15 Most Promising Startups",
+      "2018 — Entrepreneurial Company of the Year (Frost & Sullivan); Gartner Cool Vendor in AI for Media & Entertainment; Top 20 Hottest Israeli Startups; Best Israeli Startup in Social & Media (Atlas Award)"
+    ],
+    "social_proof_logos": [
+      "UAE FA", "KFA (Korean Football Association)", "Argentinian Football Federation",
+      "FIBA", "Portuguese Football Federation", "SportsEngine", "AWS",
+      "LakePoint Sports", "GameChanger", "Olympique Lyonnais", "FC Basel",
+      "Scottish Premiership (SPFL)", "Telekom Srbija", "Portuguese Handball Federation",
+      "Dyn Media", "NFHS Network", "Maccabi Tel Aviv", "Real Sociedad",
+      "ACF Fiorentina", "Benfica", "Stats Perform", "BasketBallCity",
+      "Red Bull Media", "Israeli Football Association", "Spanish Ice Sports Federation",
+      "FloSports", "Levira", "Israeli Basketball Association", "IMG", "Grupo Globo",
+      "NEP", "America East Conference", "Sportradar", "Genius Sports",
+      "Get-Live", "Hungarian Ice Hockey Federation", "NTT Sportict", "SuperSport",
+      "Football Association of Ireland", "MLB", "Sports Recruits", "Ireland Basketball",
+      "Italian Football Coaches Association", "Croatian Basketball Federation",
+      "Bavarian Basketball Association", "Chilean Football Federation",
+      "Hungarian Football Federation", "Real Betis", "Southampton FC",
+      "PlayOn", "UEFA"
+    ]
+  },
+
+  "products": {
+    "fixed_camera_systems": [
+      {
+        "product_name": "Pixellot Show",
+        "tagline": "Set-and-forget sports streaming service",
+        "target_audience": "Clubs, schools, federations, leagues, media platforms, broadcasters, venues, and coaching organizations at all competitive levels",
+        "description": "An end-to-end automated sports production and streaming system designed for organizations that want minimal operational overhead. Sport-specific AI algorithms automatically track the action, produce a broadcast feed, generate highlights, and deliver live and on-demand content — all without a human operator.",
+        "key_features": [
+          "Unmanned, fully-automated sports tracking camera",
+          "Indoor and outdoor capable",
+          "Low minimum bandwidth required — 3G/4G supported",
+          "Audio inputs for on-premise or remote commentary",
+          "Auto-adjusts to poor lighting conditions",
+          "Embedded graphics and ad format overlays",
+          "Automatic highlights and condensed game summaries",
+          "Live and on-demand playback with rewind capability",
+          "Free companion app for fans — live viewing, clip creation, sharing"
+        ],
+        "camera_specs": {
+          "resolution": "Full HD (1080p); multi-camera panoramic array",
+          "lens_type": "Multi-camera wide-angle array stitched into panoramic view",
+          "coverage_area": "Full field/court coverage for all four corners from midfield/midcourt elevation",
+          "installation_type": "Permanent ceiling/rail mount at midfield; computer tower can be up to 100m+ away from camera head"
+        },
+        "ai_features": [
+          "Sport-specific AI algorithms calibrated per discipline",
+          "Automated pan-tilt-zoom replicating a professional camera operator",
+          "Automatic highlight generation and condensed match summaries",
+          "Ball and player auto-tracking",
+          "AI-driven light recognition and exposure adjustment"
+        ],
+        "sports_supported": [
+          "Soccer", "Basketball", "Ice Hockey", "Field Hockey", "Baseball",
+          "Softball", "American Football", "Rugby", "Lacrosse", "Volleyball",
+          "Handball", "Futsal", "Netball", "Beach Volleyball", "Roller Hockey",
+          "Tennis", "Wrestling", "and others — 19 sport types total"
+        ],
+        "connectivity": "3G/4G cellular or fixed-line internet; minimum 2 MB/s upload for live streaming, preferred 5–10 MB/s; RTMP, RTSP, SDI, NDI, API, and SDK output supported; up to 7 simultaneous stream variants",
+        "unique_selling_points": [
+          "Zero human operators required after installation",
+          "Over 30,000 systems deployed globally",
+          "One installation covers multiple sports and teams across an entire season",
+          "Reduces production costs to a minimum vs. traditional crews",
+          "Embedded monetization and sponsorship formats built in"
+        ],
+        "product_page_url": "https://www.pixellot.tv/products/show/"
+      },
+      {
+        "product_name": "Pixellot Prime",
+        "tagline": "Broadcast-quality automated production for professional and semi-professional sports",
+        "target_audience": "Professional leagues, broadcasters, media companies, and semi-professional organizations requiring broadcast-grade output",
+        "description": "Pixellot's top-tier fixed camera system, delivering broadcast-quality full HD production at 50/60 FPS. Supports both manual and automatic production modes, enabling professional broadcasters to add multi-angle coverage with a fraction of the traditional crew. Designed for environments where broadcast standards are non-negotiable.",
+        "key_features": [
+          "Broadcast-quality full HD at 50/60 FPS",
+          "Manual and automatic production modes",
+          "Multi-angle support requiring only one operator instead of a full crew",
+          "Remote commentary integration",
+          "Embedded live graphics with automated or manual scoreboard updates",
+          "Multiple stream variant outputs"
+        ],
+        "camera_specs": {
+          "resolution": "Full HD (1080p) at 50/60 FPS",
+          "lens_type": "Professional-grade multi-lens array",
+          "coverage_area": "Full field panoramic coverage",
+          "installation_type": "Permanent installation; professional mounting recommended"
+        },
+        "ai_features": [
+          "AI-automated production mode with manual override",
+          "Auto-tracking with patented pan-tilt-zoom engine",
+          "Automatic highlight generation"
+        ],
+        "sports_supported": [
+          "Soccer", "Basketball", "Ice Hockey", "American Football", "Rugby", "and all 19 supported sport types"
+        ],
+        "connectivity": "Fixed-line preferred; RTMP, RTSP, SDI, NDI, API, SDK output; 1080i interlaced conversion supported for legacy broadcast",
+        "unique_selling_points": [
+          "Broadcast-grade 50/60 FPS output — same quality as traditional outside broadcast trucks",
+          "Multi-angle expansion with a single operator instead of a full crew",
+          "Used by professional clubs across La Liga, Serie A, Bundesliga, and Mexican professional leagues",
+          "Designed with direct input from FC Barcelona coaches and analysts"
+        ],
+        "product_page_url": "https://www.pixellot.tv/products/prime/"
+      },
+      {
+        "product_name": "Pixellot DoublePlay",
+        "tagline": "The world's first automated multi-camera production solution for baseball",
+        "target_audience": "High school baseball programs, collegiate leagues, amateur baseball associations, and venues lacking infrastructure",
+        "description": "An affordable, end-to-end automated baseball solution delivering live AI-driven coverage from both the batter and pitcher's sides of the field simultaneously. Weatherproof and battery-operated, it works in challenging light and power-limited venues.",
+        "key_features": [
+          "AI-automated cutting between two camera angles",
+          "Covers both batter and pitcher perspectives",
+          "Follows the action automatically — no video operator needed",
+          "Weatherproof and works in different lighting conditions",
+          "Easy-to-use mobile app",
+          "Power over Ethernet (PoE)",
+          "Dynamic video production — captures fence and point-of-view angles"
+        ],
+        "camera_specs": {
+          "resolution": "Custom-built 4K weatherproof dual-camera system",
+          "lens_type": "Wide-angle dual-camera array",
+          "coverage_area": "Full batter/pitcher dual-angle baseball field coverage",
+          "installation_type": "Portable, battery-operated; deployable at venues without stable power or internet"
+        },
+        "ai_features": [
+          "AI-automated multi-camera cut selection",
+          "Automatic action following"
+        ],
+        "sports_supported": ["Baseball", "Softball"],
+        "connectivity": "Cellular or Wi-Fi upload; works offline for on-demand delivery in low-connectivity venues",
+        "unique_selling_points": [
+          "World's first automated multi-camera solution specifically engineered for baseball",
+          "Works at venues lacking power and stable internet (e.g., outdoor fields)",
+          "Used by MLB Draft League, Appalachian League, San Diego League, and California All Star Village"
+        ],
+        "product_page_url": "https://www.pixellot.tv/products/pixellot-doubleplay-for-baseball/"
+      }
+    ],
+
+    "mobile_camera_systems": [
+      {
+        "product_name": "Pixellot Air NXT",
+        "tagline": "Portable AI-powered sports camera for clubs, academies, and coaches",
+        "target_audience": "Youth clubs, academies, colleges, high schools, referees, semi-professional organizations, and coaches requiring a portable solution",
+        "description": "A lightweight, portable AI-powered sports camera that automates capture, production, streaming, and analysis from any venue. Placed at the halfway line, it provides a full tactical panoramic view without requiring a camera operator. Includes in-app coding, tagging, player analytics, and instant post-game cloud availability.",
+        "key_features": [
+          "Real-time AI game tracking with no operator needed",
+          "Auto-production and automatic highlights",
+          "Automatic streaming during matches or training sessions",
+          "Post-game footage instantly available via cloud for coding and tagging",
+          "In-app coding, tagging, annotation, and clip sharing",
+          "Full pitch tactical panoramic view covering all field players",
+          "Team and player analytics — data visualization, shot charts, heatmaps",
+          "Compatible with third-party analytics platforms"
+        ],
+        "hardware_specs": {
+          "weight": "Under 2kg",
+          "battery_life": "6-hour internal rechargeable battery runtime",
+          "setup_time": "Minutes; recalibration required (15–20 min) if relocated",
+          "portability": "Fully portable; mountable on tripod or temporary fixture for any indoor or outdoor venue"
+        },
+        "ai_features": [
+          "AI Director mode — auto-production with no human intervention",
+          "Automated highlight generation",
+          "Ball and player auto-tracking"
+        ],
+        "sports_supported": [
+          "Soccer", "Basketball", "Ice Hockey", "Field Hockey", "Baseball",
+          "Softball", "American Football", "Rugby", "Lacrosse", "Volleyball", "Handball"
+        ],
+        "connectivity": "Wi-Fi, 4G/5G cellular, or fixed-line internet; cloud sync for on-demand availability",
+        "unique_selling_points": [
+          "Under 2kg — lightest portable solution in Pixellot lineup",
+          "Six-hour battery enables full-day tournament coverage without recharging",
+          "No separate analysis platform needed — end-to-end solution",
+          "Used by over 10,000+ clubs globally"
+        ],
+        "product_page_url": "https://www.pixellot.tv/products/pixellot-air/"
+      },
+      {
+        "product_name": "Pixellot You",
+        "tagline": "Software-based automated production using your own action camera",
+        "target_audience": "Amateur and semi-professional organizations, individual coaches, referees, and teams wanting AI automation without proprietary hardware investment",
+        "description": "A software solution that brings Pixellot's AI automation to any wide-angle action camera. Users mount their own off-the-shelf action camera on a tripod, and Pixellot You handles tracking, production, and streaming automatically — eliminating the need for Pixellot-branded hardware.",
+        "key_features": [
+          "Works with user's own wide-angle action camera",
+          "AI-automated tracking and production",
+          "Fully mobile — tripod-mounted anywhere",
+          "No proprietary hardware required"
+        ],
+        "hardware_specs": {
+          "weight": "N/A — uses customer's own action camera",
+          "battery_life": "Dependent on customer's camera hardware",
+          "setup_time": "Minutes on a standard tripod",
+          "portability": "Completely portable — camera on tripod, no fixed installation"
+        },
+        "ai_features": [
+          "AI automated tracking via software overlay on existing camera hardware"
+        ],
+        "sports_supported": [
+          "Soccer", "Basketball", "and other sports supported by Pixellot's software algorithms"
+        ],
+        "connectivity": "Wi-Fi or cellular; cloud upload after session",
+        "unique_selling_points": [
+          "Lowest cost entry point into the Pixellot ecosystem",
+          "No proprietary camera purchase required",
+          "Ideal for budget-constrained amateur programs"
+        ],
+        "product_page_url": "https://www.pixellot.tv/"
+      }
+    ],
+
+    "software_and_platforms": [
+      {
+        "product_name": "Pixellot OTT",
+        "product_type": "OTT Streaming Platform",
+        "tagline": "End-to-end white-label OTT solution for leagues of all types and levels",
+        "target_audience": "Federations, leagues, broadcasters, media companies, clubs, and sports venues seeking to own their branded streaming channel",
+        "description": "A white-label OTT platform enabling sports organizations to build, manage, and monetize their own branded media channel. Supports live streaming, on-demand content, advanced stats, and eight distinct monetization models. Can be deployed and streaming within 48 hours of setup.",
+        "key_features": [
+          "Live game streaming with clip and highlight cutting tools",
+          "Advanced live stats and scoring overlays",
+          "Automated content scheduling",
+          "Federation and league organizational hierarchy support",
+          "Multiple subscription and payment models",
+          "Integrated panoramic view for full-game tactical analysis",
+          "Data visualization and shot charts",
+          "Eight built-in monetization types: subscriptions, advertising, sponsorships, content syndication, personalized content, live data/betting, coaching/analytics, e-commerce",
+          "Video ads: VAST, static banners, watermarks, animated banners, preroll, midroll",
+          "Built-in OTT analytics: user, video, client, business, and operational insights"
+        ],
+        "integrations": [
+          "Pixellot Show camera", "Pixellot Air NXT", "Pixellot DoublePlay",
+          "Pixellot Analytics – Advantage (VidSwap)", "Automatic Highlights",
+          "Third-party scoring software", "Live data and betting partners"
+        ],
+        "platform_availability": ["web", "mobile (implied via app references)", "smart TV (implied via OTT distribution)"],
+        "unique_selling_points": [
+          "Ready to stream within 48 hours of agreement",
+          "Owns the full content and monetization stack — no revenue share with third-party platforms",
+          "SuperSport Schools case study: +200,000 unique subscribers and 3M+ views",
+          "Scalable for single clubs up to national federations"
+        ],
+        "product_page_url": "https://www.pixellot.tv/products/pixellot-ott/"
+      },
+      {
+        "product_name": "Pixellot Automatic Highlights",
+        "product_type": "Content Management",
+        "tagline": "AI-curated highlights delivered automatically — no editor required",
+        "target_audience": "Sports organizations, content creators, clubs, broadcasters, leagues, and schools of any size",
+        "description": "An AI-powered highlight generation product that identifies and compiles the most impactful game moments without manual editing. Delivers long-form recaps, 2–10 minute summaries, and real-time short clips formatted for social media — including vertical/portrait crops for Reels, Shorts, and TikTok — automatically uploading to social accounts during or after the game.",
+        "key_features": [
+          "Full game highlights available within 4 hours post-match",
+          "2–10 minute game recap summaries",
+          "Real-time short highlights of main plays during match",
+          "Automatic upload to X (Twitter) or any social media account during game",
+          "Easy syndication of highlights to media publishers",
+          "Automated vertical/portrait mode for Reels, Shorts, and TikTok",
+          "Auto-resize for platform-specific format requirements",
+          "Customizable branded highlight templates",
+          "Live commentary integration capability",
+          "Multiple built-in monetization options"
+        ],
+        "integrations": [
+          "Pixellot Show", "Pixellot Air NXT", "Pixellot OTT",
+          "X (Twitter)", "Instagram Reels", "YouTube Shorts", "TikTok",
+          "Media publisher syndication APIs"
+        ],
+        "platform_availability": ["web", "mobile app", "social media platforms"],
+        "unique_selling_points": [
+          "Zero manual editing — fully autonomous clip curation",
+          "Real-time clips posted to social mid-game, not just post-match",
+          "Platform-native formats (9:16, 16:9) generated automatically",
+          "Drives fan engagement and sponsorship inventory without additional staff"
+        ],
+        "product_page_url": "https://www.pixellot.tv/products/automatic-highlights/"
+      },
+      {
+        "product_name": "Pixellot Analytics – Advantage (VidSwap)",
+        "product_type": "Analytics Dashboard",
+        "tagline": "Automated game breakdown and performance analytics for coaches and teams",
+        "target_audience": "Coaches, sports leagues, federations, colleges, universities, high schools, clubs, and individual players",
+        "description": "VidSwap — acquired by Pixellot in 2019 — is a sports video analytics platform that automates game breakdowns and pre-tags action to save coaching staff hours per game. Provides shot charts, heatmaps, searchable clip libraries, and automated video exchange across entire districts or leagues.",
+        "key_features": [
+          "Automated game breakdown available 4–8 hours post-game",
+          "Team and player statistics",
+          "Shot charts and heat maps",
+          "Self-coding and live coding tools",
+          "Searchable highlight database by situation, player, or play type",
+          "Automated video exchange across entire districts or leagues",
+          "Athlete and team highlight reel creation",
+          "Annotated clips shareable to players and staff",
+          "Accepts uploads from any video source — not locked to Pixellot cameras",
+          "Film sharing with Hudl users (bidirectional)",
+          "Unlimited video storage"
+        ],
+        "integrations": [
+          "Pixellot Show", "Pixellot Air NXT", "Pixellot Prime",
+          "Hudl (bidirectional film exchange)", "Any external video source"
+        ],
+        "platform_availability": ["web", "mobile app"],
+        "unique_selling_points": [
+          "Designed with direct input from FC Barcelona's coaches and analysts",
+          "Used by elite clubs across UK, Italy, Germany, Spain, France, Holland, and all Mexican professional leagues",
+          "Accepts footage from any camera — not exclusive to Pixellot hardware",
+          "Bidirectional Hudl film sharing for schools already in the Hudl ecosystem"
+        ],
+        "product_page_url": "https://www.pixellot.tv/products/vidswap/"
+      }
+    ]
+  },
+
+  "solutions_by_market": {
+    "high_schools": {
+      "headline": "High School Sports Streaming & Broadcasting — Bringing broadcast-quality coverage to high school sports for friends and family",
+      "pain_points_addressed": [
+        "Limited budgets preventing schools from affording camera operators or production crews",
+        "Fan bases — especially families — unable to watch games remotely",
+        "Empty stadiums and lost gate and sponsorship revenues",
+        "Lack of video coaching tools to develop players",
+        "Amateur athletes struggling to build showreels for college recruitment",
+        "Fields lacking power and stable internet for traditional setups"
+      ],
+      "featured_products": [
+        "Pixellot Show", "Pixellot Air NXT", "Pixellot DoublePlay",
+        "Pixellot OTT", "Pixellot Analytics – Advantage (VidSwap)"
+      ],
+      "key_benefits": [
+        "Every game broadcastable live and on-demand with zero staff",
+        "Sponsorship and ad revenue generation for athletic departments",
+        "Video coaching tools to develop players at all levels",
+        "Athlete showreels to support college recruitment",
+        "Community engagement — families can watch from anywhere",
+        "U.S. schools can access hardware for free through the NFHS Network partnership"
+      ],
+      "notable_partners": [
+        "NFHS Network — leader in U.S. high school sports streaming; ~8,000 schools equipped",
+        "San Diego League — COVID-era OTT season-pass model",
+        "California All Star Village (CASV) — DoublePlay deployed at power/internet-limited fields"
+      ],
+      "case_study_summary": "Over 8,000 US high schools are using Pixellot through the NFHS Network. Quote: 'The best thing about the technology is that once the unit is installed and games are scheduled – it just works!'",
+      "page_url": "https://www.pixellot.tv/markets/high-schools/"
+    },
+
+    "colleges_and_universities": {
+      "headline": "The affordable way to bring broadcast-quality coverage to college and university sporting events",
+      "pain_points_addressed": [
+        "High cost and staffing demands of traditional sports production",
+        "Women's athletics underrepresented in live coverage due to budget constraints",
+        "Weak alumni connection and limited global fan engagement",
+        "Insufficient revenue streams for athletic departments",
+        "Athletes lacking NIL (Name, Image, Likeness) monetization visibility"
+      ],
+      "featured_products": [
+        "Pixellot Show", "Pixellot Air NXT", "Pixellot OTT",
+        "Automatic Highlights", "Pixellot Analytics – Advantage (VidSwap)"
+      ],
+      "key_benefits": [
+        "Staffless, AI-driven automated production for all sports including women's athletics",
+        "Live and on-demand streaming for every program, not just revenue sports",
+        "New digital sponsorship inventory for revenue growth",
+        "Coach support via automated video breakdown and analytics",
+        "Broader alumni reach globally through OTT",
+        "Student athlete exposure supporting NIL opportunities"
+      ],
+      "notable_partners": [
+        "American East Conference (via ESPN+)",
+        "California Collegiate Athletic Association (CCAA) — five-year deal",
+        "Big East (expanded FloSports partnership)",
+        "FloSports (collegiate softball coverage)",
+        "Jet Media"
+      ],
+      "case_study_summary": "Jet Media quote: 'an all-in-one system that could handle production and broadcasting, was reliable and field-proven.' CCAA secured a five-year partnership covering all collegiate sports.",
+      "page_url": "https://www.pixellot.tv/markets/colleges-universities/"
+    },
+
+    "professional_leagues_and_clubs": {
+      "headline": "Boost the profile of local sports, attract advertisers and sponsors, and generate the level of coverage your league deserves",
+      "pain_points_addressed": [
+        "Regional and semi-professional leagues lacking affordable broadcast production",
+        "Weak fan engagement and limited supporter connection for lower-tier clubs",
+        "Difficulty securing sponsors and advertisers without broadcast presence",
+        "No sustainable revenue stream to fund grassroots and youth development",
+        "Absence of video-based performance analysis at scale"
+      ],
+      "featured_products": [
+        "Pixellot Prime", "Pixellot Show", "Pixellot OTT",
+        "Automatic Highlights", "Pixellot Analytics – Advantage (VidSwap)"
+      ],
+      "key_benefits": [
+        "Affordable automated production across all league levels — not just flagship clubs",
+        "Attract tier-1 sponsors and high-profile advertisers",
+        "Create broadcast revenue to reinvest in grassroots programs",
+        "AI coaching tools refined with input from FC Barcelona's staff",
+        "VidSwap analytics available 4–8 hours post-game for all league clubs",
+        "Equal broadcast coverage for women's competitions alongside men's"
+      ],
+      "notable_partners": [
+        "FC Barcelona — AI coaching solution integration",
+        "La Liga", "Serie A", "Bundesliga", "Scottish Premiership (SPFL)",
+        "Chilean Football Federation — player scouting via automation",
+        "Hungarian Football Federation", "Portuguese Football Federation (FPF)",
+        "Israeli Football Association", "Mexican professional leagues (all clubs)",
+        "Olympique Lyonnais", "Real Sociedad", "ACF Fiorentina", "Benfica",
+        "Real Betis", "Southampton FC"
+      ],
+      "case_study_summary": "Israeli Football Association uses Pixellot to improve team and player performance before and during matches. FPF is cited as a digital transformation benchmark. Women's football AI coverage put on equal footing with men's competitions across multiple federations.",
+      "page_url": "https://www.pixellot.tv/markets/leagues-federations/"
+    },
+
+    "academies_and_youth_clubs": {
+      "headline": "Youth Teams — High-quality coverage boosting the profile of grassroots sports",
+      "pain_points_addressed": [
+        "Parents who work or travel cannot watch their children's games",
+        "Youth athletes lack showreels to attract college scouts",
+        "Grassroots programs receive little to no broadcast-quality coverage",
+        "Amateur teams cannot afford professional video production",
+        "COVID-19 disrupted in-person attendance and community engagement"
+      ],
+      "featured_products": [
+        "Pixellot Air NXT", "Pixellot Show", "Pixellot DoublePlay",
+        "Pixellot OTT", "Automatic Highlights", "Pixellot Analytics – Advantage (VidSwap)"
+      ],
+      "key_benefits": [
+        "Affordable, fully automated video production at broadcast quality",
+        "Replay highlights and memorable moments anytime, anywhere",
+        "Video coaching tools to accelerate young athlete development",
+        "Wider fan reach allowing remote family viewing globally",
+        "Athlete recruitment showreels generated automatically"
+      ],
+      "notable_partners": [
+        "Korea Handball Federation",
+        "Israeli Football Association youth programs",
+        "Birmingham FA (UK)",
+        "US high school programs (~8,000 schools)"
+      ],
+      "case_study_summary": "Korea Handball Federation: 'Pixellot was a game-changer for us.' Officials cited strong parent responses to COVID-era online broadcast of youth games. Israeli soccer association uses AI for youth player development.",
+      "page_url": "https://www.pixellot.tv/markets/youth-teams/"
+    },
+
+    "media_and_broadcasters": {
+      "headline": "Expand your coverage without growing your team, producing more sports video content at a fraction of the cost",
+      "pain_points_addressed": [
+        "High cost of deploying traditional on-site camera crews to every game",
+        "Limited volume of sports content that can realistically be covered",
+        "Heavy manual overhead and staffing complexity in broadcast workflows",
+        "Difficulty scaling content output to meet growing audience demand"
+      ],
+      "featured_products": [
+        "Pixellot Prime — broadcast-quality full HD at 50/60 FPS",
+        "Pixellot Show — automated streaming for semi-pro and lower tiers",
+        "Pixellot DoublePlay — automated multi-camera baseball",
+        "Pixellot OTT — owned streaming distribution platform",
+        "Automatic Highlights — AI social content generation"
+      ],
+      "key_benefits": [
+        "Fully automated end-to-end video production — no crew deployment",
+        "Remote production enabling multi-feed broadcasts from one control room",
+        "Third-party integration compatibility (RTMP, RTSP, SDI, NDI, API, SDK)",
+        "Embedded live graphics, scoreboard updates, and ad formats",
+        "Audio commentary input both on-site and remotely",
+        "Scale to hundreds of simultaneous events without scaling headcount"
+      ],
+      "notable_partners": [
+        "FC Barcelona", "NEP Switzerland", "FloSports", "NTT Sportict (Japan)",
+        "SuperSport Schools (Africa — 200,000+ subscribers)", "MLB",
+        "Maccabiah Games (650 live broadcasts)", "Grupo Globo", "IMG",
+        "Dyn Media", "Red Bull Media", "Levira", "ESPORT+", "ATM Media",
+        "Genius Sports", "Sportradar", "Stats Perform"
+      ]
+    }
+  },
+
+  "supported_sports": [
+    {
+      "sport_name": "Soccer / Football",
+      "sport_specific_features": [
+        "Full-pitch panoramic tactical view covering all 22 players simultaneously",
+        "Wide-angle session recording with fixed frames and time marks for training",
+        "Real-time clip tagging, editing, and half-time reel creation",
+        "Auto-upload after final whistle with self-coding and player-level data",
+        "Integration with VidSwap analytics for pre-tagging and scouting",
+        "Fan live streaming to OTT or TV with Pixellot App",
+        "Wearable data integration (e.g., PlayerMakers)",
+        "AI Director mimics a professional operator with ball-following camera logic",
+        "Equal coverage capability for women's competitions"
+      ],
+      "recommended_products": [
+        "Pixellot Show", "Pixellot Air NXT", "Pixellot Prime",
+        "Pixellot OTT", "Automatic Highlights", "Pixellot Analytics – Advantage (VidSwap)"
+      ],
+      "target_markets_for_sport": [
+        "Professional Clubs & Leagues", "High Schools", "Colleges & Universities",
+        "Youth Academies", "Federations", "Broadcasters"
+      ],
+      "sport_page_url": "https://www.pixellot.tv/sports/soccer/"
+    },
+    {
+      "sport_name": "Basketball",
+      "sport_specific_features": [
+        "Full-court panoramic coverage",
+        "Shot charts and heatmaps via VidSwap",
+        "Automated basket detection for highlight triggers",
+        "FIBA-approved product for official use",
+        "Live stats and scoring overlays"
+      ],
+      "recommended_products": [
+        "Pixellot Show", "Pixellot Air NXT", "Pixellot OTT",
+        "Automatic Highlights", "Pixellot Analytics – Advantage (VidSwap)"
+      ],
+      "target_markets_for_sport": [
+        "Professional Leagues", "Colleges & Universities", "High Schools",
+        "Youth Academies", "Federations"
+      ],
+      "sport_page_url": "https://www.pixellot.tv/sports/basketball/"
+    },
+    {
+      "sport_name": "Ice Hockey",
+      "sport_specific_features": [
+        "Full-rink panoramic coverage",
+        "AI tracking calibrated for fast-paced rink play",
+        "Partner federations include Hungarian Ice Hockey Federation and Spanish Ice Sports Federation"
+      ],
+      "recommended_products": ["Pixellot Show", "Pixellot Prime", "Pixellot OTT"],
+      "target_markets_for_sport": ["Federations", "Professional Leagues", "Clubs"],
+      "sport_page_url": "https://www.pixellot.tv/sports/ice-hockey/"
+    },
+    {
+      "sport_name": "Baseball",
+      "sport_specific_features": [
+        "World's first automated multi-camera baseball solution (DoublePlay)",
+        "Dual-angle coverage — batter and pitcher sides simultaneously",
+        "AI-automated camera cut selection between angles",
+        "Works at outdoor fields without stable power or internet"
+      ],
+      "recommended_products": ["Pixellot DoublePlay", "Pixellot Show", "Pixellot OTT"],
+      "target_markets_for_sport": ["High Schools", "Colleges", "Amateur Leagues", "Youth Programs"],
+      "sport_page_url": "https://www.pixellot.tv/sports/baseball/"
+    },
+    {
+      "sport_name": "American Football",
+      "sport_specific_features": [
+        "Full-field panoramic coverage from elevated midfield position",
+        "AI tracking adapted for wide-field sport",
+        "Clip tagging for play-type analysis via VidSwap"
+      ],
+      "recommended_products": ["Pixellot Show", "Pixellot Air NXT", "Pixellot Analytics – Advantage"],
+      "target_markets_for_sport": ["High Schools", "Colleges & Universities", "Youth Programs"],
+      "sport_page_url": "https://www.pixellot.tv/sports/american-football/"
+    },
+    {
+      "sport_name": "Volleyball",
+      "sport_specific_features": [
+        "Full-court coverage for both indoor and beach variants",
+        "AI algorithms adapted for net-sport dynamics"
+      ],
+      "recommended_products": ["Pixellot Show", "Pixellot Air NXT"],
+      "target_markets_for_sport": ["High Schools", "Colleges", "Federations"],
+      "sport_page_url": "https://www.pixellot.tv/sports/volleyball/"
+    },
+    {
+      "sport_name": "Handball",
+      "sport_specific_features": [
+        "Full-hall coverage", "AI tracking for fast-transition indoor sport",
+        "Partner includes Korean Handball Federation and Portuguese Handball Federation"
+      ],
+      "recommended_products": ["Pixellot Show", "Pixellot Air NXT", "Pixellot OTT"],
+      "target_markets_for_sport": ["Federations", "Youth Programs", "Clubs"],
+      "sport_page_url": "https://www.pixellot.tv/sports/handball/"
+    },
+    {
+      "sport_name": "Rugby",
+      "sport_specific_features": [
+        "Full-pitch panoramic coverage", "AI tracking for wide-field collision sport"
+      ],
+      "recommended_products": ["Pixellot Show", "Pixellot Air NXT"],
+      "target_markets_for_sport": ["Clubs", "High Schools", "Colleges"],
+      "sport_page_url": "https://www.pixellot.tv/sports/rugby/"
+    },
+    {
+      "sport_name": "Field Hockey",
+      "sport_specific_features": [
+        "Full-pitch coverage", "Fast-action AI tracking algorithms calibrated for field hockey pace"
+      ],
+      "recommended_products": ["Pixellot Show", "Pixellot Air NXT"],
+      "target_markets_for_sport": ["High Schools", "Colleges", "Clubs"],
+      "sport_page_url": "https://www.pixellot.tv/sports/field-hockey/"
+    },
+    {
+      "sport_name": "Lacrosse",
+      "sport_specific_features": [
+        "Full-field coverage", "AI tracking adapted for lacrosse dynamics"
+      ],
+      "recommended_products": ["Pixellot Show", "Pixellot Air NXT"],
+      "target_markets_for_sport": ["High Schools", "Colleges"],
+      "sport_page_url": "https://www.pixellot.tv/sports/lacrosse/"
+    },
+    {
+      "sport_name": "Softball",
+      "sport_specific_features": ["Multi-angle coverage via Pixellot DoublePlay", "Single-camera option via Pixellot Show or Air NXT"],
+      "recommended_products": ["Pixellot DoublePlay", "Pixellot Show"],
+      "target_markets_for_sport": ["High Schools", "Colleges", "Youth Programs"],
+      "sport_page_url": "https://www.pixellot.tv/sports/softball/"
+    }
+  ],
+
+  "technology_and_ai": {
+    "overview": "Pixellot's patented AI-automation technology combines fixed multi-camera arrays with sport-specific computer vision algorithms to produce a broadcast-quality video feed without any human operator. The system continuously captures a panoramic full-field view, runs real-time AI analysis to detect the ball and players, then automatically produces dynamic zooms and pans that replicate the output of a professional broadcast crew. Over 90,000 hours of live content produced monthly continuously feeds the self-learning AI.",
+    "computer_vision": {
+      "description": "Multiple cameras stitch a panoramic view of the entire playing surface. Sport-specific CV algorithms analyze the scene in real time to detect ball position, player movements, and game events. The AI then selects the optimal virtual crop window and generates dynamic zooms and pans to produce a broadcast-grade output stream.",
+      "tracking_capabilities": [
+        "Ball detection and tracking across 19 sport types",
+        "Player position and movement tracking across the full field",
+        "Automatic zoom and pan generation based on action center",
+        "Event detection (goals, baskets, key plays) for highlight triggers",
+        "Lighting variation detection with automatic exposure adjustment",
+        "Scoreboard/graphics reading via scoreboard camera",
+        "Play-type tagging and searchable clip library (via VidSwap)",
+        "Shot charts and heatmaps for player and team analysis",
+        "Offside-line inference via full-pitch panoramic view (soccer)"
+      ],
+      "model_training": "Sport-specific AI models trained on 90,000+ hours of live content produced monthly. Pixellot describes its AI as self-learning, continuously improved by the volume of games processed. Models are separately tuned per sport type across all 19 disciplines. FC Barcelona's coaching staff provided direct input on the coaching analytics model."
+    },
+    "ai_director": {
+      "description": "The AI Director is 'the patented technological heart of Pixellot solutions' — software running on a local computer tower connected to the fixed camera array that automatically decides camera angle, zoom level, and panning behavior throughout a game without human input.",
+      "how_it_works": "1. The full-field panoramic view is continuously captured by the multi-camera array. 2. Sport-specific CV algorithms analyze the panoramic frame in real time to locate the ball and players. 3. The AI Director selects the optimal virtual crop window — zoom level, angle, and pan speed — based on action location. 4. The resulting stream is encoded and distributed via RTMP, RTSP, SDI, NDI, API, or SDK. 5. Up to 7 simultaneous stream variants (different resolutions, bitrates, with or without graphics) are produced from a single capture.",
+      "output_quality": "Broadcast-grade production without operators. Pixellot Prime delivers full HD at 50/60 FPS. All systems support 1080p; 1080i interlaced conversion available for legacy broadcast infrastructure. Audio is captured via built-in microphones with support for wired/wireless auxiliary mics and remote commentary feeds."
+    },
+    "auto_clipping_and_highlights": {
+      "description": "Pixellot Automatic Highlights uses AI to identify the most impactful game moments in real time and post-match, compiling them into multiple formats without any manual editing. The system simultaneously produces full recaps, social-ready short clips, and vertical formats for Stories and Reels.",
+      "trigger_events": [
+        "Goals (soccer)", "Baskets scored (basketball)", "Key plays broadly across all supported sports",
+        "Game's most thrilling moments as identified by sport-specific AI event detection"
+      ],
+      "delivery_format": "Real-time short clips published to social media accounts (X, Instagram, TikTok) during the game; 2–10 minute mid-length recap available shortly after the game; full highlight compilation within 4 hours post-match; vertical/portrait 9:16 format auto-generated for Reels, Shorts, and TikTok; syndication-ready files for media publisher distribution."
+    },
+    "cloud_architecture": {
+      "description": "Pixellot uses a cloud-based workflow where the local camera-and-server unit handles real-time AI processing and encoding, then uploads footage and streams to Pixellot's cloud infrastructure for storage, further processing, and delivery to end users.",
+      "upload_pipeline": "Camera array → local computer tower (AI processing, encoding) → cloud upload via internet connection → Pixellot cloud servers → end-user delivery via OTT app, web platform, or third-party broadcast distribution (RTMP/RTSP/SDI/NDI/API/SDK). Footage is available on-demand immediately after upload. In low-connectivity situations, local recording is preserved and uploaded when connectivity is restored.",
+      "latency": "Live streaming requires minimum 2 MB/s upload (preferred 5–10 MB/s); 3G/4G cellular streaming supported. Specific end-to-end latency figures are not publicly disclosed.",
+      "scalability": "30,000+ active systems simultaneously operating across 80+ countries. The cloud architecture supports simultaneous live production from all deployed venues. Pixellot OTT platform is ready for streaming within 48 hours of deployment.",
+      "cloud_providers": ["AWS (listed as an official partner on the Pixellot homepage partner strip)"]
+    },
+    "data_and_analytics": {
+      "description": "Beyond video, Pixellot generates rich performance data through its VidSwap/Advantage analytics layer. All games are automatically pre-tagged and broken down within 4–8 hours, providing coaches and organizations with searchable clip libraries, statistical dashboards, and visual analytics.",
+      "data_outputs": [
+        "Shot charts per player and team",
+        "Heatmaps of player positioning and movement",
+        "Tagged video clips by play type, situation, and player",
+        "Team and individual athlete performance statistics",
+        "Automated game breakdown files",
+        "Player highlight reels",
+        "Live scoreboard and in-game graphics data",
+        "Subscription/viewer analytics via OTT platform",
+        "Business intelligence: user, video, client, and operational insights (OTT)"
+      ],
+      "api_availability": "Yes — Pixellot supports RTMP, RTSP, SDI, NDI, API, and SDK output for third-party integration. Live data can be ingested by partners for betting, scoring, and analytics. Sportradar and Genius Sports are listed as official partners, indicating data feed partnerships.",
+      "data_format": "Internal proprietary format; compatible with external partners including Sportradar, Stats Perform, and Genius Sports. VidSwap accepts uploads from any video source including exports from Hudl."
+    }
+  },
+
+  "pricing_and_business_model": {
+    "model_type": "Hardware + subscription (Camera-as-a-Service). Customers acquire the Pixellot camera system (purchase or financing) and pay an ongoing subscription for the software, cloud, streaming, and analytics components. The OTT platform is a separate SaaS layer. Pixellot describes its overall offering as 'Camera-as-a-Service'.",
+    "hardware_cost_indication": "No public pricing listed on the website. All hardware and subscription inquiries are directed to the sales team via the contact form. U.S. high schools can access Pixellot hardware at no cost through the NFHS Network partnership.",
+    "subscription_tiers": [
+      {
+        "tier_name": "High School / Amateur Tier",
+        "price": "Contact sales — hardware may be subsidized via NFHS Network for US schools",
+        "included_features": [
+          "Pixellot Show or Air NXT automated camera",
+          "Live and on-demand streaming",
+          "Pixellot App for fans",
+          "Basic analytics via VidSwap",
+          "Automatic highlights"
+        ],
+        "target_segment": "High schools, youth teams, amateur clubs"
+      },
+      {
+        "tier_name": "Collegiate / Semi-Professional Tier",
+        "price": "Contact sales",
+        "included_features": [
+          "Pixellot Show streaming system",
+          "Pixellot OTT branded channel",
+          "Advanced VidSwap analytics",
+          "Automatic Highlights with social publishing",
+          "Sponsorship and monetization tools"
+        ],
+        "target_segment": "Colleges, universities, semi-professional leagues"
+      },
+      {
+        "tier_name": "Professional / Broadcaster Tier",
+        "price": "Contact sales",
+        "included_features": [
+          "Pixellot Prime broadcast-quality system (50/60 FPS)",
+          "Multi-angle production capability",
+          "Full Pixellot OTT platform",
+          "Advanced VidSwap analytics (FC Barcelona-grade coaching tools)",
+          "Live data and betting integration",
+          "API/SDK access for third-party integration",
+          "Dedicated support"
+        ],
+        "target_segment": "Professional clubs, leagues, federations, broadcasters, media companies"
+      }
+    ],
+    "contract_length": "Not publicly disclosed. CCAA signed a five-year deal; NFHS Network is a long-term partnership. Contracts likely annual or multi-year based on published case studies.",
+    "free_trial_or_demo": "Demo available on request through the website contact form ('Let's Talk' / 'Speak with a Sales Expert'). No self-serve free trial is mentioned.",
+    "roi_claims": [
+      "Replaces an entire on-site camera crew with a single automated system",
+      "One Pixellot installation covers multiple sports and teams across an entire season",
+      "U.S. high schools accessible free via NFHS Network partnership",
+      "SuperSport Schools generated 200,000+ unique subscribers via Pixellot OTT",
+      "Maccabiah Games delivered 650 live broadcasts with automated production",
+      "DoublePlay streamed 500+ MLB Draft League games automatically",
+      "8,000 U.S. high schools broadcasting games that previously had no coverage",
+      "VidSwap game breakdowns available 4–8 hours post-game vs. manual overnight analysis"
+    ]
+  },
+
+  "objection_handling": {
+    "vs_traditional_camera_crew": {
+      "objection": "Why use an AI camera instead of hiring a professional camera operator?",
+      "response_points": [
+        "Automated systems are typically far more affordable — one setup covers an entire season across multiple teams and sports vs. hiring a crew per game",
+        "Zero human operators required after a one-time installation taking roughly one day",
+        "Eliminates scheduling complexity — no need to find and book a crew for every event",
+        "Scales effortlessly — 30,000+ systems operate simultaneously globally, which no crew model can match",
+        "Output is broadcast-grade (Pixellot Prime at 50/60 FPS) rivaling professional outside broadcast trucks",
+        "Once installed it 'just works' — no per-game logistics or operator fatigue"
+      ]
+    },
+    "vs_manual_recording": {
+      "objection": "Can't a coach or parent just record on a phone or tripod camera?",
+      "response_points": [
+        "Pixellot provides a full broadcast-quality output with automated zooms and pans, not a static wide shot",
+        "Footage is automatically uploaded to the cloud, tagged, broken down, and analytics-ready within 4–8 hours",
+        "Automatic highlight generation, social media publishing, and player showreels are produced with zero effort",
+        "Live streaming to any device for remote family members is built in — phone recordings cannot be streamed live at scale",
+        "VidSwap pre-tagging and coaching analytics cannot be replicated from a manual phone recording",
+        "Player recruitment showreels and statistical analysis are generated automatically"
+      ]
+    },
+    "vs_competitors": {
+      "objection": "How is Pixellot different from Hudl Focus, Veo, or Trace?",
+      "competitors_mentioned_on_site": ["Veo", "Hudl"],
+      "differentiation_points": [
+        "Pixellot is fully automated end-to-end; Veo requires manual clipping post-game",
+        "Hudl often requires separate filming hardware; Pixellot is a complete integrated system",
+        "Pixellot is the only solution offering a full white-label OTT platform for monetization",
+        "Pixellot scales from high school to professional broadcast (Pixellot Prime at 50/60 FPS) — competitors do not",
+        "Pixellot supports 19 sport types with sport-specific AI models; most competitors focus on soccer and basketball",
+        "Film sharing with Hudl users is supported bidirectionally — organizations can migrate without losing existing archives",
+        "FIBA official product approval — the only AI sports camera with federation-level endorsement for basketball",
+        "Pixellot's AI is trained on 90,000+ hours of live content per month, providing the largest sports-specific training dataset",
+        "Full analytics stack (VidSwap/Advantage) designed with FC Barcelona — not available from commodity camera competitors"
+      ]
+    },
+    "setup_complexity": {
+      "objection": "Is the system hard to install and maintain?",
+      "response_points": [
+        "Full permanent installation completes in one day; calibration takes 15–20 minutes and only needs to be done once",
+        "Minimal installation requirements: an internet connection (min 5 Mb/s upload) and electricity",
+        "Computer tower can be located up to 100m+ away from the camera head — no complex cabling at the camera mount point",
+        "Pixellot You and Air NXT are portable solutions set up in minutes on a standard tripod",
+        "Maintenance is 'set and forget' — occasional lens cleaning and rigging integrity checks only",
+        "No dedicated technical staff required to operate the system day-to-day",
+        "'Once the unit is installed and games are scheduled – it just works!'"
+      ]
+    },
+    "budget_concerns": {
+      "objection": "This seems expensive for a small school or club.",
+      "response_points": [
+        "U.S. high schools can access Pixellot hardware through the NFHS Network at no upfront cost",
+        "One system covers an entire school's athletics program across multiple sports and teams — far cheaper than hiring crews per game",
+        "The system generates revenue through built-in sponsorship, advertising, and OTT subscription tools, often offsetting the investment",
+        "Pixellot You uses the organization's own existing action camera — no hardware purchase required",
+        "Amateur and youth pricing tiers exist; contact sales for a customized budget-appropriate package",
+        "ROI is measurable: 8,000 US high schools now broadcast games that previously had zero coverage or revenue"
+      ]
+    },
+    "ai_accuracy": {
+      "objection": "How accurate is the AI tracking? Will it lose the ball?",
+      "response_points": [
+        "Over 90,000 hours of live content produced monthly continuously improves the self-learning AI",
+        "Sport-specific models are separately calibrated for each of the 19 supported sports — not a generic one-size-fits-all algorithm",
+        "More than 5 million games produced on the platform provide an unrivaled training dataset",
+        "If internet or power are lost, local recording is preserved — no game footage is permanently lost",
+        "Built-in light recognition adjusts the picture automatically when lighting conditions change",
+        "FIBA has officially approved Pixellot's basketball product, providing third-party validation of tracking quality",
+        "Systems have been used at elite professional level including FC Barcelona, La Liga, and all Mexican professional league clubs"
+      ]
+    }
+  },
+
+  "customer_success": {
+    "testimonials": [
+      {
+        "quote": "The best thing about the technology is that once the unit is installed and games are scheduled – it just works!",
+        "author_name": "Not specified",
+        "author_title": "Representative, US high school sports program (8,000 schools via NFHS Network)",
+        "related_product": "Pixellot Show via NFHS Network"
+      },
+      {
+        "quote": "Pixellot was a game-changer for us.",
+        "author_name": "Not specified",
+        "author_title": "Official, Korea Handball Federation",
+        "related_product": "Pixellot Show / Air NXT for youth handball streaming"
+      },
+      {
+        "quote": "An all-in-one system that could handle production and broadcasting, was reliable and field-proven.",
+        "author_name": "Not specified",
+        "author_title": "Representative, Jet Media",
+        "related_product": "Pixellot Show for collegiate sports production"
+      }
+    ],
+    "case_studies": [
+      {
+        "customer_name": "NFHS Network / US High Schools",
+        "market_segment": "High School",
+        "challenge": "Over 8,000 high schools lacked the budget or staff to broadcast their sporting events, leaving fans unable to watch and athletic departments generating no streaming revenue.",
+        "solution": "Pixellot Show installed across ~8,000 schools via NFHS Network partnership, with hardware provided at no cost to schools.",
+        "results": [
+          "8,000+ US high schools now broadcasting games that previously had zero coverage",
+          "Schools generating sponsorship and subscription revenue for the first time",
+          "Revenue sharing for schools increased effective August 1, 2020"
+        ],
+        "case_study_url": "https://www.nfhsnetwork.com/pixellot"
+      },
+      {
+        "customer_name": "SuperSport Schools",
+        "market_segment": "High School",
+        "challenge": "needed scalable, affordable streaming solution to reach a broad school sports audience in Africa",
+        "solution": "Pixellot OTT platform with automated production",
+        "results": [
+          "+200,000 unique subscribers",
+          "Over 3 million total views"
+        ],
+        "case_study_url": "https://www.pixellot.tv/"
+      },
+      {
+        "customer_name": "California Collegiate Athletic Association (CCAA)",
+        "market_segment": "College",
+        "challenge": "Needed an affordable, scalable production solution to cover all sports across a multi-school conference.",
+        "solution": "Pixellot Show with a multi-year conference-wide agreement.",
+        "results": [
+          "Five-year streaming partnership covering all CCAA collegiate sports"
+        ],
+        "case_study_url": "https://www.pixellot.tv/"
+      },
+      {
+        "customer_name": "Israel Football Association (IFA)",
+        "market_segment": "Federation",
+        "challenge": "Needed to improve team and player performance analysis across all league levels including youth, while making coverage affordable at scale.",
+        "solution": "Pixellot AI production and VidSwap analytics deployed across Israeli football structure.",
+        "results": [
+          "Automated performance improvement tools before and during matches",
+          "Youth football coverage transformed nationally",
+          "Landmark partnership announced for grassroots development"
+        ],
+        "case_study_url": "https://www.pixellot.tv/blog/transforming-youth-football-in-israel-pixellots-landmark-partnership-with-the-israeli-football-association/"
+      },
+      {
+        "customer_name": "MLB Draft League / San Diego League",
+        "market_segment": "Professional",
+        "challenge": "Needed affordable automated multi-camera baseball coverage across multiple venues, some lacking stable power and internet.",
+        "solution": "Pixellot DoublePlay installed at 17 MLB Draft League venues, Appalachian League, and San Diego League sites.",
+        "results": [
+          "500+ games streamed automatically",
+          "Coverage achieved at fields lacking stable power and internet infrastructure"
+        ],
+        "case_study_url": "https://www.pixellot.tv/products/pixellot-doubleplay-for-baseball/"
+      },
+      {
+        "customer_name": "Southampton FC",
+        "market_segment": "Professional",
+        "challenge": "Needed automated coverage of all academy and youth games including away matches, which was cost-prohibitive with traditional crews.",
+        "solution": "Pixellot Air NXT deployed across all age groups.",
+        "results": [
+          "All games at all levels and age groups captured, including away games"
+        ],
+        "case_study_url": "https://www.pixellot.tv/"
+      },
+      {
+        "customer_name": "Maccabiah Games",
+        "market_segment": "Federation",
+        "challenge": "Needed to cover a large multi-sport international event with many simultaneous venues.",
+        "solution": "Pixellot Show across multiple venues.",
+        "results": ["650 live broadcasts delivered automatically"],
+        "case_study_url": "https://www.pixellot.tv/"
+      },
+      {
+        "customer_name": "Korea Handball Federation",
+        "market_segment": "Federation",
+        "challenge": "COVID-19 prevented in-person attendance; parents and fans could not watch youth handball games.",
+        "solution": "Pixellot automated streaming deployed for live broadcast of youth games.",
+        "results": [
+          "Strong parent engagement response",
+          "'Pixellot was a game-changer for us'"
+        ],
+        "case_study_url": "https://www.pixellot.tv/"
+      }
+    ],
+    "notable_partners_and_clients": [
+      { "name": "NFHS Network", "partner_type": "Distribution Partner", "description": "Leader in US high school sports streaming; ~8,000 schools access Pixellot hardware free through this partnership" },
+      { "name": "FC Barcelona", "partner_type": "Client", "description": "Uses Pixellot AI coaching solution; club coaches provided direct input on the professional analytics product" },
+      { "name": "AWS", "partner_type": "Technology Partner", "description": "Listed as official cloud/technology partner on homepage" },
+      { "name": "FIBA", "partner_type": "Federation", "description": "Officially approved Pixellot as a certified product for use in FIBA basketball competitions globally" },
+      { "name": "FloSports", "partner_type": "Distribution Partner", "description": "Collegiate softball and Big East content distributed via FloSports" },
+      { "name": "Sportradar", "partner_type": "Technology Partner", "description": "Data and sports intelligence partnership" },
+      { "name": "Genius Sports", "partner_type": "Technology Partner", "description": "Sports data and media rights partnership including Scottish football betting rights with IMG/SPFL" },
+      { "name": "Stats Perform", "partner_type": "Technology Partner", "description": "Sports data and AI partnership" },
+      { "name": "PlayOn", "partner_type": "Distribution Partner", "description": "Five-year restructured partnership for school sports distribution" },
+      { "name": "SportsEngine", "partner_type": "Technology Partner", "description": "Youth sports management platform partnership for multi-sport venue coverage" },
+      { "name": "Grupo Globo", "partner_type": "Distribution Partner", "description": "Brazilian media giant — broadcaster partnership" },
+      { "name": "IMG", "partner_type": "Distribution Partner", "description": "Sports media rights and distribution partnership (SPFL betting rights)" },
+      { "name": "NEP Switzerland", "partner_type": "Client", "description": "Broadcast production company using Pixellot for automated content at scale" },
+      { "name": "NTT Sportict", "partner_type": "Client", "description": "Japanese sports technology company deploying Pixellot in Japan" },
+      { "name": "Red Bull Media", "partner_type": "Client", "description": "Sports and media company using Pixellot production" },
+      { "name": "Scottish Premiership (SPFL)", "partner_type": "Client", "description": "Top-tier Scottish football league using Pixellot for production and data rights" },
+      { "name": "Portuguese Football Federation (FPF)", "partner_type": "Client", "description": "National federation digital transformation benchmark case study" },
+      { "name": "Chilean Football Federation", "partner_type": "Client", "description": "Player scouting via automated AI production across Chilean football" }
+    ]
+  },
+
+  "sales_and_contact": {
+    "primary_cta": "Let's Talk / Speak with a Sales Expert (contact form)",
+    "demo_request_url": "https://www.pixellot.tv/contact/",
+    "contact_email": "support@pixellot.tv",
+    "sales_phone": "Not publicly listed",
+    "regional_offices": [
+      {
+        "region": "Global",
+        "contact_detail": "Global team spread across multiple countries; no specific regional office addresses or numbers listed on the public website. All inquiries routed through the central contact form."
+      },
+      {
+        "region": "United States (High Schools)",
+        "contact_detail": "US high schools use dedicated landing page: nfhsnetwork.com/pixellot"
+      }
+    ]
+  },
+
+  "handoff_triggers": {
+    "description": "Keywords and user intents that signal the AI agent should stop answering and escalate to a human sales representative.",
+    "explicit_purchase_intent": [
+      "I want to buy",
+      "How do I purchase",
+      "Can I place an order",
+      "I'm ready to sign a contract",
+      "What's the next step to get started"
+    ],
+    "pricing_negotiation": [
+      "Can you give me a discount",
+      "Is the price negotiable",
+      "We have a limited budget",
+      "Can we do a pilot for free",
+      "What's the minimum commitment"
+    ],
+    "enterprise_or_custom_deal": [
+      "We have 50+ venues",
+      "We need a custom integration",
+      "We want to resell Pixellot",
+      "We're a national federation",
+      "We need an API agreement",
+      "OEM partnership"
+    ],
+    "legal_or_compliance": [
+      "Data processing agreement",
+      "GDPR",
+      "FERPA compliance",
+      "Security audit",
+      "Vendor questionnaire",
+      "SLA requirements"
+    ],
+    "escalation_phrases": [
+      "I need to speak to a human",
+      "Can I talk to someone",
+      "Transfer me to sales",
+      "I want to schedule a call",
+      "Can I book a live demo"
+    ],
+    "negative_sentiment": [
+      "I'm very frustrated",
+      "This is not working",
+      "I want to cancel",
+      "I'm going to complain",
+      "This is unacceptable"
+    ]
+  },
+
+  "faq": [
+    { "question": "When was Pixellot founded?", "answer": "Founded in 2013 by Gal Oz and Dr. Miky Tamir to bring automated production to sports.", "category": "General" },
+    { "question": "What sports can Pixellot cover?", "answer": "16–19 sports including soccer, basketball, football, hockey, lacrosse, volleyball, handball, baseball, softball, rugby, and field hockey; other sports may use equivalent algorithms.", "category": "Product" },
+    { "question": "What is automated sports video production?", "answer": "Recording and broadcasting without a human operator — AI and computer vision track the action automatically.", "category": "General" },
+    { "question": "I'm a US high school — how do I sign up?", "answer": "Visit nfhsnetwork.com/pixellot.", "category": "General" },
+    { "question": "Why should a team or school use automated video?", "answer": "Saves time and money; provides full game coverage, coach analysis, parent viewing, and player highlight clips.", "category": "General" },
+    { "question": "Is automated video good enough for recruiting?", "answer": "Yes — many clubs already use Pixellot as their main recruiting tool.", "category": "General" },
+    { "question": "How does Pixellot compare to Veo or Hudl?", "answer": "Pixellot is fully automated end-to-end; Veo requires manual clipping; Hudl often requires separate filming hardware.", "category": "Product" },
+    { "question": "What is the difference between Prime and Show?", "answer": "Prime offers broadcast-quality capture at 50–60 FPS with manual or automatic modes; Show is a fully automated HD streaming solution for semi-pro and amateur leagues.", "category": "Product" },
+    { "question": "What is Pixellot You?", "answer": "A software-based solution using an off-the-shelf action camera for the amateur/semi-pro market.", "category": "Product" },
+    { "question": "What types of monetization are available?", "answer": "PPV, subscriptions, ads, sponsorships, syndication, sports betting, live data, and e-commerce.", "category": "General" },
+    { "question": "How does the system work?", "answer": "Multiple cameras stitch a panoramic view; sport-specific AI algorithms create a broadcast feed with automatic zooms and pans.", "category": "Technical" },
+    { "question": "How reliable is the tracking technology?", "answer": "Over 90,000 hours of live content produced monthly continuously feeds the self-learning AI.", "category": "Technical" },
+    { "question": "What is AI-Automation?", "answer": "The patented technological heart of Pixellot solutions — software plus fixed cameras produce zooms and pans automatically.", "category": "Technical" },
+    { "question": "What happens if internet or power are lost?", "answer": "Live stream drops; a battery backup preserves local recording and on-demand availability.", "category": "Technical" },
+    { "question": "What internet bandwidth is required?", "answer": "Preferred: 5–10 MB/s upload; minimum for live streaming: 2 MB/s (with reduced quality).", "category": "Technical" },
+    { "question": "How do I forward a live stream?", "answer": "Via RTMP, RTSP, SDI, NDI, API, or SDK.", "category": "Technical" },
+    { "question": "What maintenance is required?", "answer": "Minimal — set and forget; occasional rigging integrity checks and lens cleaning.", "category": "Technical" },
+    { "question": "How long does a permanent installation take?", "answer": "One day; calibration and initialization take 15–20 minutes and only need to be done once.", "category": "Installation" },
+    { "question": "What are the minimal installation requirements?", "answer": "An internet connection (minimum 5 Mb upload) and an electrical connection.", "category": "Installation" },
+    { "question": "Can the camera system be made mobile?", "answer": "Yes — mountable on a tripod or temporary fixture; recalibration (15–20 min) is needed each time it moves.", "category": "Installation" },
+    { "question": "How much does it cost compared to hiring a videographer?", "answer": "Automated systems are typically far more affordable — one setup covers an entire season across multiple teams and sports.", "category": "Pricing" },
+    { "question": "What is Pixellot OTT?", "answer": "A comprehensive platform for live and on-demand streaming with registration, payment, and subscription management across devices.", "category": "Streaming" },
+    { "question": "How easy is setup — do I need a crew?", "answer": "No crew needed: once installed, Pixellot cameras run automatically — you don't even press record.", "category": "Streaming" },
+    { "question": "How quickly are analytics available after a game?", "answer": "Usually 4–8 hours post-game.", "category": "Technical" },
+    { "question": "Can I upload film not from Pixellot cameras?", "answer": "Yes — any game, practice, or training video can be manually uploaded to VidSwap.", "category": "Product" },
+    { "question": "Can I move old Hudl film to VidSwap?", "answer": "Yes — download from Hudl and upload to VidSwap with unlimited storage.", "category": "Product" },
+    { "question": "Was Pixellot Coaching developed with pro club input?", "answer": "Yes — designed with direct input from FC Barcelona's coaches and analysts.", "category": "Product" },
+    { "question": "Are professional soccer teams using Pixellot coaching?", "answer": "Yes — elite clubs from the UK, Italy, Germany, Spain, France, Holland, and all Mexican professional leagues.", "category": "Product" }
+  ],
+
+  "metadata": {
+    "scrape_timestamp": "2026-03-09T00:00:00Z",
+    "source_urls_scraped": [
+      "https://www.pixellot.tv/",
+      "https://www.pixellot.tv/about/",
+      "https://www.pixellot.tv/products/",
+      "https://www.pixellot.tv/products/show/",
+      "https://www.pixellot.tv/products/pixellot-air/",
+      "https://www.pixellot.tv/products/pixellot-ott/",
+      "https://www.pixellot.tv/products/automatic-highlights/",
+      "https://www.pixellot.tv/products/vidswap/",
+      "https://www.pixellot.tv/products/pixellot-doubleplay-for-baseball/",
+      "https://www.pixellot.tv/solutions/",
+      "https://www.pixellot.tv/sports/",
+      "https://www.pixellot.tv/markets/high-schools/",
+      "https://www.pixellot.tv/markets/colleges-universities/",
+      "https://www.pixellot.tv/markets/leagues-federations/",
+      "https://www.pixellot.tv/markets/clubs-teams/",
+      "https://www.pixellot.tv/markets/broadcasters-distributors/",
+      "https://www.pixellot.tv/markets/youth-teams/",
+      "https://www.pixellot.tv/markets/rights-holders/",
+      "https://www.pixellot.tv/faq/",
+      "https://www.pixellot.tv/contact/",
+      "https://www.pixellot.tv/blog/"
+    ],
+    "schema_version": "1.0.0",
+    "tenant_id": "pixellot",
+    "agent_persona": "You are Pix, a knowledgeable and friendly AI Sales & Support Agent for Pixellot. You help prospects understand Pixellot's products, match them to the right solution, handle objections, and qualify leads. You speak confidently about sports technology, AI-automated broadcasting, and the specific needs of coaches, athletic directors, and league administrators. When a user shows strong purchase intent or asks for pricing negotiation, you hand off to a human sales rep."
+  }
+}

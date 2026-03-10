@@ -1,0 +1,25 @@
+# Render.com deployment — Pixellot AI Agent
+# https://render.com/docs/render-yaml-spec
+#
+# Deploy steps:
+# 1. Push pixellot-agent-backend/ to its own GitHub repo
+# 2. Render → New → Web Service → connect the repo
+# 3. Set env vars in Render dashboard:
+#    - OPENAI_API_KEY   (required)
+#    - ALLOWED_ORIGINS  (your Vercel URL, e.g. https://yoursite.vercel.app)
+# 4. Copy the Render service URL → paste into Vercel as NEXT_PUBLIC_AGENT_API_URL
+
+services:
+  - type: web
+    name: pixellot-agent
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false          # Set manually in Render dashboard
+      - key: ALLOWED_ORIGINS
+        value: "*"           # Change to your Vercel URL after deploy
+      - key: PYTHONUNBUFFERED
+        value: "1"
